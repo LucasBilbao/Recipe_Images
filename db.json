@@ -1,0 +1,3844 @@
+{
+  "recipes": [
+    {
+      "title": "Creamy Mushroom Pasta",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": 50.8,
+          "unit": "ml"
+        },
+        {
+          "name": "butter",
+          "quantity": 390.1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "spinach",
+          "quantity": 174.5,
+          "unit": "pcs"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 375.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "egg",
+          "quantity": 390.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 410.6,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Boil water and cook pasta until al dente.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Let it cool before serving.",
+        "Blend until smooth.",
+        "Mix all ingredients thoroughly.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Falafel Wrap",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "spinach",
+          "quantity": 378.0,
+          "unit": "ml"
+        },
+        {
+          "name": "tofu",
+          "quantity": 382.6,
+          "unit": "cup"
+        },
+        {
+          "name": "butter",
+          "quantity": 166.6,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients thoroughly.",
+        "Bake in the oven for 30 minutes.",
+        "Grill for 10 minutes on each side.",
+        "Heat oil in a pan and saut\u00e9 the onions."
+      ]
+    },
+    {
+      "title": "Falafel Wrap",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "pasta",
+          "quantity": 448.3,
+          "unit": "pcs"
+        },
+        {
+          "name": "tomato",
+          "quantity": 431.9,
+          "unit": "pcs"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 79.8,
+          "unit": "tbsp"
+        },
+        {
+          "name": "onion",
+          "quantity": 4.0,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Boil water and cook pasta until al dente.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Roasted Veggie Pasta",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Pasta Dishes", "Vegan", "Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "spinach",
+          "quantity": 40.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 244.3,
+          "unit": "pcs"
+        },
+        {
+          "name": "spinach",
+          "quantity": 224.8,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Let it cool before serving.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Vegan Chocolate Mousse",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Desserts", "Vegan"],
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "quantity": 61.3,
+          "unit": "ml"
+        },
+        {
+          "name": "onion",
+          "quantity": 208.1,
+          "unit": "pcs"
+        },
+        {
+          "name": "chicken",
+          "quantity": 445.4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "garlic",
+          "quantity": 119.2,
+          "unit": "g"
+        },
+        {
+          "name": "cream",
+          "quantity": 225.3,
+          "unit": "g"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 151.5,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Blend until smooth.",
+        "Bake in the oven for 30 minutes.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Pasta Dishes", "Vegan"],
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": 66.8,
+          "unit": "cup"
+        },
+        {
+          "name": "salt",
+          "quantity": 285.8,
+          "unit": "ml"
+        },
+        {
+          "name": "spinach",
+          "quantity": 168.6,
+          "unit": "ml"
+        },
+        {
+          "name": "quinoa",
+          "quantity": 422.8,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Grill for 10 minutes on each side.",
+        "Let it cool before serving."
+      ]
+    },
+    {
+      "title": "Falafel Wrap",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "quantity": 214.1,
+          "unit": "tsp"
+        },
+        {
+          "name": "lentils",
+          "quantity": 335.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "pepper",
+          "quantity": 460.9,
+          "unit": "tbsp"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 218.9,
+          "unit": "pcs"
+        },
+        {
+          "name": "carrot",
+          "quantity": 220.7,
+          "unit": "tsp"
+        },
+        {
+          "name": "carrot",
+          "quantity": 251.5,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Boil water and cook pasta until al dente.",
+        "Grill for 10 minutes on each side.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Mix all ingredients thoroughly."
+      ]
+    },
+    {
+      "title": "Sweet Pancakes",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Desserts"],
+      "ingredients": [
+        {
+          "name": "egg",
+          "quantity": 32.9,
+          "unit": "ml"
+        },
+        {
+          "name": "salt",
+          "quantity": 65.1,
+          "unit": "pcs"
+        },
+        {
+          "name": "garlic",
+          "quantity": 362.8,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients thoroughly.",
+        "Bake in the oven for 30 minutes.",
+        "Chop all vegetables finely.",
+        "Let it cool before serving.",
+        "Grill for 10 minutes on each side.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Falafel Wrap",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "cheese",
+          "quantity": 414.8,
+          "unit": "g"
+        },
+        {
+          "name": "milk",
+          "quantity": 145.3,
+          "unit": "tsp"
+        },
+        {
+          "name": "carrot",
+          "quantity": 56.4,
+          "unit": "ml"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 64.6,
+          "unit": "cup"
+        },
+        {
+          "name": "flour",
+          "quantity": 58.1,
+          "unit": "g"
+        },
+        {
+          "name": "pasta",
+          "quantity": 89.7,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients thoroughly.",
+        "Bake in the oven for 30 minutes.",
+        "Boil water and cook pasta until al dente.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Pasta Dishes", "Vegan"],
+      "ingredients": [
+        {
+          "name": "onion",
+          "quantity": 298.2,
+          "unit": "cup"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 200.7,
+          "unit": "ml"
+        },
+        {
+          "name": "sugar",
+          "quantity": 171.6,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Let it cool before serving.",
+        "Mix all ingredients thoroughly.",
+        "Chop all vegetables finely.",
+        "Bake in the oven for 30 minutes.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Sweet Pancakes",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Desserts"],
+      "ingredients": [
+        {
+          "name": "onion",
+          "quantity": 345.6,
+          "unit": "pcs"
+        },
+        {
+          "name": "quinoa",
+          "quantity": 201.4,
+          "unit": "pcs"
+        },
+        {
+          "name": "flour",
+          "quantity": 243.2,
+          "unit": "g"
+        },
+        {
+          "name": "butter",
+          "quantity": 124.8,
+          "unit": "cup"
+        },
+        {
+          "name": "tomato",
+          "quantity": 326.9,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Blend until smooth.",
+        "Grill for 10 minutes on each side.",
+        "Mix all ingredients thoroughly.",
+        "Let it cool before serving.",
+        "Bake in the oven for 30 minutes."
+      ]
+    },
+    {
+      "title": "Grilled Chicken Skewers",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Vegan", "Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "sugar",
+          "quantity": 140.2,
+          "unit": "ml"
+        },
+        {
+          "name": "carrot",
+          "quantity": 80.5,
+          "unit": "pcs"
+        },
+        {
+          "name": "spinach",
+          "quantity": 225.7,
+          "unit": "ml"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 239.6,
+          "unit": "tbsp"
+        },
+        {
+          "name": "pasta",
+          "quantity": 444.9,
+          "unit": "cup"
+        },
+        {
+          "name": "sugar",
+          "quantity": 353.5,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Mix all ingredients thoroughly.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Falafel Wrap",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "salt",
+          "quantity": 212.2,
+          "unit": "cup"
+        },
+        {
+          "name": "salt",
+          "quantity": 296.4,
+          "unit": "ml"
+        },
+        {
+          "name": "salt",
+          "quantity": 187.9,
+          "unit": "g"
+        },
+        {
+          "name": "garlic",
+          "quantity": 201.8,
+          "unit": "pcs"
+        },
+        {
+          "name": "carrot",
+          "quantity": 218.2,
+          "unit": "cup"
+        },
+        {
+          "name": "onion",
+          "quantity": 191.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "garlic",
+          "quantity": 79.2,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Boil water and cook pasta until al dente.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "BBQ Ribs",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "celery",
+          "quantity": 303.6,
+          "unit": "g"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 189.5,
+          "unit": "g"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 242.7,
+          "unit": "pcs"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 389.8,
+          "unit": "ml"
+        },
+        {
+          "name": "garlic",
+          "quantity": 262.9,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Macaroni and Cheese",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "chicken",
+          "quantity": 259.9,
+          "unit": "tsp"
+        },
+        {
+          "name": "butter",
+          "quantity": 421.0,
+          "unit": "tsp"
+        },
+        {
+          "name": "garlic",
+          "quantity": 379.5,
+          "unit": "pcs"
+        },
+        {
+          "name": "spinach",
+          "quantity": 14.4,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Grill for 10 minutes on each side.",
+        "Mix all ingredients thoroughly.",
+        "Chop all vegetables finely.",
+        "Boil water and cook pasta until al dente.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Grilled Chicken Skewers",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "egg",
+          "quantity": 134.7,
+          "unit": "cup"
+        },
+        {
+          "name": "beef",
+          "quantity": 173.8,
+          "unit": "g"
+        },
+        {
+          "name": "tofu",
+          "quantity": 312.9,
+          "unit": "ml"
+        },
+        {
+          "name": "salt",
+          "quantity": 496.2,
+          "unit": "tsp"
+        },
+        {
+          "name": "flour",
+          "quantity": 467.7,
+          "unit": "ml"
+        },
+        {
+          "name": "onion",
+          "quantity": 345.5,
+          "unit": "pcs"
+        },
+        {
+          "name": "pepper",
+          "quantity": 169.9,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Let it cool before serving.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Grilled Chicken Skewers",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "garlic",
+          "quantity": 459.2,
+          "unit": "tsp"
+        },
+        {
+          "name": "pasta",
+          "quantity": 335.8,
+          "unit": "tbsp"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 18.2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "chicken",
+          "quantity": 165.4,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Mix all ingredients thoroughly.",
+        "Bake in the oven for 30 minutes."
+      ]
+    },
+    {
+      "title": "Fettuccine Alfredo",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Pasta Dishes", "Vegan"],
+      "ingredients": [
+        {
+          "name": "mushroom",
+          "quantity": 5.0,
+          "unit": "tsp"
+        },
+        {
+          "name": "lentils",
+          "quantity": 4.7,
+          "unit": "ml"
+        },
+        {
+          "name": "garlic",
+          "quantity": 485.7,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Blend until smooth.",
+        "Let it cool before serving.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Vegan Lentil Soup",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Vegan", "Soups & Stews"],
+      "ingredients": [
+        {
+          "name": "pasta",
+          "quantity": 171.2,
+          "unit": "ml"
+        },
+        {
+          "name": "pepper",
+          "quantity": 243.4,
+          "unit": "pcs"
+        },
+        {
+          "name": "pasta",
+          "quantity": 490.4,
+          "unit": "cup"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 1.7,
+          "unit": "cup"
+        },
+        {
+          "name": "pasta",
+          "quantity": 30.6,
+          "unit": "cup"
+        },
+        {
+          "name": "carrot",
+          "quantity": 213.2,
+          "unit": "g"
+        },
+        {
+          "name": "cheese",
+          "quantity": 101.8,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Mix all ingredients thoroughly.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Grill for 10 minutes on each side.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Grilled Chicken Skewers",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "quantity": 109.7,
+          "unit": "pcs"
+        },
+        {
+          "name": "pepper",
+          "quantity": 334.5,
+          "unit": "cup"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 258.0,
+          "unit": "cup"
+        },
+        {
+          "name": "beef",
+          "quantity": 132.4,
+          "unit": "tsp"
+        },
+        {
+          "name": "tofu",
+          "quantity": 237.2,
+          "unit": "g"
+        },
+        {
+          "name": "pepper",
+          "quantity": 140.8,
+          "unit": "pcs"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 192.5,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Blend until smooth.",
+        "Heat oil in a pan and saut\u00e9 the onions."
+      ]
+    },
+    {
+      "title": "Macaroni and Cheese",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "pepper",
+          "quantity": 490.0,
+          "unit": "cup"
+        },
+        {
+          "name": "butter",
+          "quantity": 434.6,
+          "unit": "cup"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 220.7,
+          "unit": "tsp"
+        },
+        {
+          "name": "salt",
+          "quantity": 67.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "flour",
+          "quantity": 230.0,
+          "unit": "g"
+        },
+        {
+          "name": "salt",
+          "quantity": 469.5,
+          "unit": "pcs"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 419.3,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Mix all ingredients thoroughly.",
+        "Let it cool before serving.",
+        "Chop all vegetables finely.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Tofu Stir Fry",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "chicken",
+          "quantity": 79.5,
+          "unit": "g"
+        },
+        {
+          "name": "cheese",
+          "quantity": 237.4,
+          "unit": "cup"
+        },
+        {
+          "name": "chicken",
+          "quantity": 282.6,
+          "unit": "tbsp"
+        },
+        {
+          "name": "onion",
+          "quantity": 9.8,
+          "unit": "g"
+        },
+        {
+          "name": "cream",
+          "quantity": 345.0,
+          "unit": "tsp"
+        },
+        {
+          "name": "butter",
+          "quantity": 154.7,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Blend until smooth.",
+        "Chop all vegetables finely.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Let it cool before serving.",
+        "Mix all ingredients thoroughly.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Grilled Chicken Skewers",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "pepper",
+          "quantity": 398.3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "butter",
+          "quantity": 63.8,
+          "unit": "pcs"
+        },
+        {
+          "name": "sugar",
+          "quantity": 278.7,
+          "unit": "g"
+        },
+        {
+          "name": "milk",
+          "quantity": 118.7,
+          "unit": "g"
+        },
+        {
+          "name": "carrot",
+          "quantity": 344.9,
+          "unit": "tbsp"
+        },
+        {
+          "name": "spinach",
+          "quantity": 116.5,
+          "unit": "cup"
+        },
+        {
+          "name": "pepper",
+          "quantity": 171.0,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Mix all ingredients thoroughly.",
+        "Chop all vegetables finely.",
+        "Blend until smooth.",
+        "Heat oil in a pan and saut\u00e9 the onions."
+      ]
+    },
+    {
+      "title": "Classic Tomato Soup",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan", "Soups & Stews"],
+      "ingredients": [
+        {
+          "name": "celery",
+          "quantity": 272.5,
+          "unit": "pcs"
+        },
+        {
+          "name": "quinoa",
+          "quantity": 415.2,
+          "unit": "g"
+        },
+        {
+          "name": "flour",
+          "quantity": 241.2,
+          "unit": "cup"
+        },
+        {
+          "name": "garlic",
+          "quantity": 78.7,
+          "unit": "tbsp"
+        },
+        {
+          "name": "spinach",
+          "quantity": 149.5,
+          "unit": "g"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 46.5,
+          "unit": "cup"
+        },
+        {
+          "name": "tomato",
+          "quantity": 158.1,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Let it cool before serving.",
+        "Bake in the oven for 30 minutes.",
+        "Mix all ingredients thoroughly.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Tofu Stir Fry",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": 97.6,
+          "unit": "pcs"
+        },
+        {
+          "name": "salt",
+          "quantity": 85.0,
+          "unit": "tsp"
+        },
+        {
+          "name": "sugar",
+          "quantity": 77.7,
+          "unit": "pcs"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 397.6,
+          "unit": "g"
+        },
+        {
+          "name": "celery",
+          "quantity": 302.1,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Mix all ingredients thoroughly.",
+        "Grill for 10 minutes on each side.",
+        "Chop all vegetables finely.",
+        "Bake in the oven for 30 minutes.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Falafel Wrap",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "garlic",
+          "quantity": 185.6,
+          "unit": "cup"
+        },
+        {
+          "name": "celery",
+          "quantity": 427.8,
+          "unit": "pcs"
+        },
+        {
+          "name": "garlic",
+          "quantity": 411.3,
+          "unit": "cup"
+        },
+        {
+          "name": "cheese",
+          "quantity": 428.8,
+          "unit": "pcs"
+        },
+        {
+          "name": "tomato",
+          "quantity": 8.1,
+          "unit": "tsp"
+        },
+        {
+          "name": "cheese",
+          "quantity": 215.3,
+          "unit": "g"
+        },
+        {
+          "name": "spinach",
+          "quantity": 415.3,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Chop all vegetables finely.",
+        "Mix all ingredients thoroughly.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Roasted Veggie Pasta",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Pasta Dishes", "Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "lentils",
+          "quantity": 29.4,
+          "unit": "g"
+        },
+        {
+          "name": "sugar",
+          "quantity": 46.4,
+          "unit": "g"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 411.8,
+          "unit": "g"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 471.2,
+          "unit": "ml"
+        },
+        {
+          "name": "tomato",
+          "quantity": 437.7,
+          "unit": "cup"
+        },
+        {
+          "name": "sugar",
+          "quantity": 298.5,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients thoroughly.",
+        "Chop all vegetables finely.",
+        "Let it cool before serving."
+      ]
+    },
+    {
+      "title": "Beef Stew",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Soups & Stews", "Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "onion",
+          "quantity": 134.3,
+          "unit": "g"
+        },
+        {
+          "name": "cream",
+          "quantity": 89.9,
+          "unit": "ml"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 92.5,
+          "unit": "ml"
+        },
+        {
+          "name": "carrot",
+          "quantity": 225.9,
+          "unit": "tsp"
+        },
+        {
+          "name": "salt",
+          "quantity": 115.8,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Blend until smooth.",
+        "Grill for 10 minutes on each side.",
+        "Let it cool before serving."
+      ]
+    },
+    {
+      "title": "Falafel Wrap",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "celery",
+          "quantity": 168.1,
+          "unit": "tsp"
+        },
+        {
+          "name": "butter",
+          "quantity": 71.4,
+          "unit": "pcs"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 222.0,
+          "unit": "ml"
+        },
+        {
+          "name": "milk",
+          "quantity": 447.5,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Bake in the oven for 30 minutes.",
+        "Mix all ingredients thoroughly.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Let it cool before serving."
+      ]
+    },
+    {
+      "title": "Vegan Chocolate Mousse",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Desserts", "Vegan"],
+      "ingredients": [
+        {
+          "name": "celery",
+          "quantity": 374.7,
+          "unit": "g"
+        },
+        {
+          "name": "carrot",
+          "quantity": 110.3,
+          "unit": "pcs"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 117.3,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Bake in the oven for 30 minutes.",
+        "Chop all vegetables finely.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Chocolate Lava Cake",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Desserts"],
+      "ingredients": [
+        {
+          "name": "spinach",
+          "quantity": 219.7,
+          "unit": "tbsp"
+        },
+        {
+          "name": "flour",
+          "quantity": 341.0,
+          "unit": "g"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 468.0,
+          "unit": "cup"
+        },
+        {
+          "name": "beef",
+          "quantity": 74.6,
+          "unit": "cup"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 377.2,
+          "unit": "ml"
+        },
+        {
+          "name": "lentils",
+          "quantity": 132.7,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Boil water and cook pasta until al dente.",
+        "Blend until smooth.",
+        "Let it cool before serving."
+      ]
+    },
+    {
+      "title": "Vegan Chocolate Mousse",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Desserts", "Vegan"],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "quantity": 11.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "pepper",
+          "quantity": 345.2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "quinoa",
+          "quantity": 134.1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "sugar",
+          "quantity": 212.3,
+          "unit": "pcs"
+        },
+        {
+          "name": "beef",
+          "quantity": 395.8,
+          "unit": "tbsp"
+        },
+        {
+          "name": "spinach",
+          "quantity": 161.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "chicken",
+          "quantity": 428.7,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Blend until smooth.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Creamy Mushroom Pasta",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "milk",
+          "quantity": 167.1,
+          "unit": "ml"
+        },
+        {
+          "name": "tofu",
+          "quantity": 200.4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "butter",
+          "quantity": 203.9,
+          "unit": "pcs"
+        },
+        {
+          "name": "tofu",
+          "quantity": 451.7,
+          "unit": "tsp"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 80.1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "celery",
+          "quantity": 329.5,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Mix all ingredients thoroughly.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Vegan Chocolate Mousse",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Desserts", "Vegan"],
+      "ingredients": [
+        {
+          "name": "quinoa",
+          "quantity": 274.2,
+          "unit": "pcs"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 286.7,
+          "unit": "cup"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 108.1,
+          "unit": "tsp"
+        },
+        {
+          "name": "carrot",
+          "quantity": 143.3,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Boil water and cook pasta until al dente.",
+        "Let it cool before serving.",
+        "Bake in the oven for 30 minutes.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Chocolate Lava Cake",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Desserts", "Vegan"],
+      "ingredients": [
+        {
+          "name": "sugar",
+          "quantity": 193.8,
+          "unit": "ml"
+        },
+        {
+          "name": "celery",
+          "quantity": 300.8,
+          "unit": "g"
+        },
+        {
+          "name": "tofu",
+          "quantity": 286.0,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Blend until smooth.",
+        "Chop all vegetables finely.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Macaroni and Cheese",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": 130.7,
+          "unit": "pcs"
+        },
+        {
+          "name": "chicken",
+          "quantity": 404.0,
+          "unit": "ml"
+        },
+        {
+          "name": "salt",
+          "quantity": 415.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "spinach",
+          "quantity": 315.8,
+          "unit": "tbsp"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 136.3,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Blend until smooth.",
+        "Mix all ingredients thoroughly.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Buddha Bowl",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "pasta",
+          "quantity": 386.8,
+          "unit": "ml"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 498.8,
+          "unit": "tbsp"
+        },
+        {
+          "name": "flour",
+          "quantity": 391.1,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Blend until smooth.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "mushroom",
+          "quantity": 92.1,
+          "unit": "g"
+        },
+        {
+          "name": "milk",
+          "quantity": 43.5,
+          "unit": "ml"
+        },
+        {
+          "name": "onion",
+          "quantity": 407.9,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Let it cool before serving.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Vegan Lentil Soup",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Vegan", "Soups & Stews"],
+      "ingredients": [
+        {
+          "name": "bell pepper",
+          "quantity": 55.7,
+          "unit": "cup"
+        },
+        {
+          "name": "garlic",
+          "quantity": 10.3,
+          "unit": "ml"
+        },
+        {
+          "name": "lentils",
+          "quantity": 494.6,
+          "unit": "g"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 478.3,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Grill for 10 minutes on each side.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Chocolate Lava Cake",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Desserts", "Vegan"],
+      "ingredients": [
+        {
+          "name": "pasta",
+          "quantity": 447.7,
+          "unit": "g"
+        },
+        {
+          "name": "carrot",
+          "quantity": 408.8,
+          "unit": "ml"
+        },
+        {
+          "name": "flour",
+          "quantity": 495.1,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Blend until smooth.",
+        "Bake in the oven for 30 minutes."
+      ]
+    },
+    {
+      "title": "Quinoa Salad Bowl",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "egg",
+          "quantity": 189.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "quinoa",
+          "quantity": 58.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "onion",
+          "quantity": 281.2,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Blend until smooth.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Fettuccine Alfredo",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "shrimp",
+          "quantity": 334.4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "tomato",
+          "quantity": 137.7,
+          "unit": "ml"
+        },
+        {
+          "name": "chicken",
+          "quantity": 158.7,
+          "unit": "tbsp"
+        },
+        {
+          "name": "salt",
+          "quantity": 297.3,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Chop all vegetables finely.",
+        "Grill for 10 minutes on each side.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Tofu Stir Fry",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "quantity": 14.0,
+          "unit": "g"
+        },
+        {
+          "name": "butter",
+          "quantity": 44.5,
+          "unit": "ml"
+        },
+        {
+          "name": "cheese",
+          "quantity": 450.5,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Let it cool before serving.",
+        "Blend until smooth.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Sweet Pancakes",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Desserts"],
+      "ingredients": [
+        {
+          "name": "cheese",
+          "quantity": 458.0,
+          "unit": "cup"
+        },
+        {
+          "name": "chicken",
+          "quantity": 370.8,
+          "unit": "ml"
+        },
+        {
+          "name": "lentils",
+          "quantity": 108.3,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Boil water and cook pasta until al dente.",
+        "Chop all vegetables finely.",
+        "Mix all ingredients thoroughly.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Vegan Lentil Soup",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Vegan", "Soups & Stews"],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "quantity": 297.0,
+          "unit": "cup"
+        },
+        {
+          "name": "tofu",
+          "quantity": 375.3,
+          "unit": "pcs"
+        },
+        {
+          "name": "beef",
+          "quantity": 311.2,
+          "unit": "ml"
+        },
+        {
+          "name": "quinoa",
+          "quantity": 49.8,
+          "unit": "ml"
+        },
+        {
+          "name": "beef",
+          "quantity": 265.4,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Blend until smooth.",
+        "Mix all ingredients thoroughly.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Boil water and cook pasta until al dente.",
+        "Bake in the oven for 30 minutes."
+      ]
+    },
+    {
+      "title": "Sweet Pancakes",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Desserts"],
+      "ingredients": [
+        {
+          "name": "garlic",
+          "quantity": 116.2,
+          "unit": "ml"
+        },
+        {
+          "name": "onion",
+          "quantity": 221.5,
+          "unit": "g"
+        },
+        {
+          "name": "milk",
+          "quantity": 409.3,
+          "unit": "g"
+        },
+        {
+          "name": "pasta",
+          "quantity": 153.6,
+          "unit": "g"
+        },
+        {
+          "name": "garlic",
+          "quantity": 493.2,
+          "unit": "cup"
+        },
+        {
+          "name": "cream",
+          "quantity": 117.2,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Grill for 10 minutes on each side.",
+        "Chop all vegetables finely.",
+        "Bake in the oven for 30 minutes.",
+        "Boil water and cook pasta until al dente.",
+        "Let it cool before serving."
+      ]
+    },
+    {
+      "title": "Fettuccine Alfredo",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "pasta",
+          "quantity": 44.8,
+          "unit": "tbsp"
+        },
+        {
+          "name": "milk",
+          "quantity": 186.4,
+          "unit": "ml"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 188.9,
+          "unit": "cup"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 303.4,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Chop all vegetables finely.",
+        "Mix all ingredients thoroughly.",
+        "Boil water and cook pasta until al dente.",
+        "Let it cool before serving.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Macaroni and Cheese",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "egg",
+          "quantity": 201.3,
+          "unit": "ml"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 245.6,
+          "unit": "tsp"
+        },
+        {
+          "name": "celery",
+          "quantity": 111.2,
+          "unit": "tsp"
+        },
+        {
+          "name": "carrot",
+          "quantity": 238.7,
+          "unit": "pcs"
+        },
+        {
+          "name": "egg",
+          "quantity": 305.6,
+          "unit": "cup"
+        },
+        {
+          "name": "milk",
+          "quantity": 454.8,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients thoroughly.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "chicken",
+          "quantity": 27.6,
+          "unit": "g"
+        },
+        {
+          "name": "milk",
+          "quantity": 221.7,
+          "unit": "pcs"
+        },
+        {
+          "name": "chicken",
+          "quantity": 274.1,
+          "unit": "pcs"
+        },
+        {
+          "name": "cream",
+          "quantity": 333.8,
+          "unit": "pcs"
+        },
+        {
+          "name": "spinach",
+          "quantity": 108.1,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients thoroughly.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Bake in the oven for 30 minutes.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "BBQ Ribs",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "bell pepper",
+          "quantity": 209.0,
+          "unit": "ml"
+        },
+        {
+          "name": "pepper",
+          "quantity": 246.2,
+          "unit": "pcs"
+        },
+        {
+          "name": "flour",
+          "quantity": 97.0,
+          "unit": "ml"
+        },
+        {
+          "name": "cheese",
+          "quantity": 248.7,
+          "unit": "tbsp"
+        },
+        {
+          "name": "sugar",
+          "quantity": 192.1,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Mix all ingredients thoroughly.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Chocolate Lava Cake",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Desserts"],
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": 404.0,
+          "unit": "tsp"
+        },
+        {
+          "name": "garlic",
+          "quantity": 90.1,
+          "unit": "ml"
+        },
+        {
+          "name": "lentils",
+          "quantity": 440.0,
+          "unit": "cup"
+        },
+        {
+          "name": "spinach",
+          "quantity": 367.8,
+          "unit": "tbsp"
+        },
+        {
+          "name": "celery",
+          "quantity": 200.7,
+          "unit": "cup"
+        },
+        {
+          "name": "tofu",
+          "quantity": 351.8,
+          "unit": "tsp"
+        },
+        {
+          "name": "beef",
+          "quantity": 57.6,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Chop all vegetables finely.",
+        "Grill for 10 minutes on each side.",
+        "Blend until smooth.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Mix all ingredients thoroughly."
+      ]
+    },
+    {
+      "title": "Vegan Lentil Soup",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan", "Soups & Stews"],
+      "ingredients": [
+        {
+          "name": "shrimp",
+          "quantity": 483.1,
+          "unit": "pcs"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 282.8,
+          "unit": "tsp"
+        },
+        {
+          "name": "pasta",
+          "quantity": 162.4,
+          "unit": "cup"
+        },
+        {
+          "name": "lentils",
+          "quantity": 344.9,
+          "unit": "g"
+        },
+        {
+          "name": "egg",
+          "quantity": 14.7,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients thoroughly.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Buddha Bowl",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "carrot",
+          "quantity": 413.7,
+          "unit": "ml"
+        },
+        {
+          "name": "quinoa",
+          "quantity": 214.0,
+          "unit": "g"
+        },
+        {
+          "name": "cream",
+          "quantity": 84.1,
+          "unit": "g"
+        },
+        {
+          "name": "pasta",
+          "quantity": 85.9,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Boil water and cook pasta until al dente.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Falafel Wrap",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "sugar",
+          "quantity": 25.2,
+          "unit": "tsp"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 118.7,
+          "unit": "pcs"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 347.3,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Grill for 10 minutes on each side.",
+        "Blend until smooth.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Macaroni and Cheese",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "cheese",
+          "quantity": 90.1,
+          "unit": "g"
+        },
+        {
+          "name": "flour",
+          "quantity": 94.0,
+          "unit": "cup"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 450.0,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Mix all ingredients thoroughly.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Sweet Pancakes",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Desserts"],
+      "ingredients": [
+        {
+          "name": "spinach",
+          "quantity": 352.6,
+          "unit": "g"
+        },
+        {
+          "name": "chicken",
+          "quantity": 112.2,
+          "unit": "g"
+        },
+        {
+          "name": "lentils",
+          "quantity": 201.4,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Mix all ingredients thoroughly."
+      ]
+    },
+    {
+      "title": "Buddha Bowl",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "lentils",
+          "quantity": 115.9,
+          "unit": "tbsp"
+        },
+        {
+          "name": "tomato",
+          "quantity": 43.4,
+          "unit": "pcs"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 65.3,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Boil water and cook pasta until al dente.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Beef Stew",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Soups & Stews", "Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "onion",
+          "quantity": 151.8,
+          "unit": "pcs"
+        },
+        {
+          "name": "lentils",
+          "quantity": 120.5,
+          "unit": "pcs"
+        },
+        {
+          "name": "spinach",
+          "quantity": 27.9,
+          "unit": "g"
+        },
+        {
+          "name": "cream",
+          "quantity": 183.8,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Grill for 10 minutes on each side.",
+        "Boil water and cook pasta until al dente.",
+        "Blend until smooth.",
+        "Let it cool before serving.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Macaroni and Cheese",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "sugar",
+          "quantity": 465.5,
+          "unit": "pcs"
+        },
+        {
+          "name": "cheese",
+          "quantity": 426.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "celery",
+          "quantity": 321.7,
+          "unit": "cup"
+        },
+        {
+          "name": "quinoa",
+          "quantity": 367.2,
+          "unit": "ml"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 6.1,
+          "unit": "g"
+        },
+        {
+          "name": "celery",
+          "quantity": 282.7,
+          "unit": "g"
+        },
+        {
+          "name": "pasta",
+          "quantity": 494.8,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Blend until smooth.",
+        "Boil water and cook pasta until al dente.",
+        "Mix all ingredients thoroughly.",
+        "Bake in the oven for 30 minutes."
+      ]
+    },
+    {
+      "title": "Quinoa Salad Bowl",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "flour",
+          "quantity": 158.7,
+          "unit": "pcs"
+        },
+        {
+          "name": "milk",
+          "quantity": 262.3,
+          "unit": "tsp"
+        },
+        {
+          "name": "chicken",
+          "quantity": 382.8,
+          "unit": "tsp"
+        },
+        {
+          "name": "pepper",
+          "quantity": 319.8,
+          "unit": "tbsp"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 432.9,
+          "unit": "cup"
+        },
+        {
+          "name": "tofu",
+          "quantity": 224.1,
+          "unit": "g"
+        },
+        {
+          "name": "tofu",
+          "quantity": 45.0,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Blend until smooth.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Roasted Veggie Pasta",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Pasta Dishes", "Vegan", "Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "quinoa",
+          "quantity": 180.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "celery",
+          "quantity": 364.8,
+          "unit": "g"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 395.7,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Boil water and cook pasta until al dente.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Let it cool before serving.",
+        "Chop all vegetables finely.",
+        "Blend until smooth.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Grilled Chicken Skewers",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "mushroom",
+          "quantity": 83.2,
+          "unit": "g"
+        },
+        {
+          "name": "butter",
+          "quantity": 455.3,
+          "unit": "cup"
+        },
+        {
+          "name": "sugar",
+          "quantity": 487.0,
+          "unit": "tsp"
+        },
+        {
+          "name": "cheese",
+          "quantity": 337.6,
+          "unit": "tsp"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 239.8,
+          "unit": "cup"
+        },
+        {
+          "name": "lentils",
+          "quantity": 124.6,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Grill for 10 minutes on each side.",
+        "Mix all ingredients thoroughly.",
+        "Let it cool before serving.",
+        "Bake in the oven for 30 minutes.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Vegan Chocolate Mousse",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Desserts", "Vegan"],
+      "ingredients": [
+        {
+          "name": "tomato",
+          "quantity": 304.3,
+          "unit": "pcs"
+        },
+        {
+          "name": "flour",
+          "quantity": 8.4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "cheese",
+          "quantity": 330.6,
+          "unit": "pcs"
+        },
+        {
+          "name": "sugar",
+          "quantity": 465.9,
+          "unit": "ml"
+        },
+        {
+          "name": "cream",
+          "quantity": 86.2,
+          "unit": "cup"
+        },
+        {
+          "name": "cream",
+          "quantity": 336.0,
+          "unit": "ml"
+        },
+        {
+          "name": "sugar",
+          "quantity": 83.9,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Boil water and cook pasta until al dente.",
+        "Let it cool before serving.",
+        "Chop all vegetables finely.",
+        "Grill for 10 minutes on each side.",
+        "Heat oil in a pan and saut\u00e9 the onions."
+      ]
+    },
+    {
+      "title": "BBQ Ribs",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "beef",
+          "quantity": 460.1,
+          "unit": "g"
+        },
+        {
+          "name": "flour",
+          "quantity": 377.6,
+          "unit": "tsp"
+        },
+        {
+          "name": "flour",
+          "quantity": 414.3,
+          "unit": "ml"
+        },
+        {
+          "name": "lentils",
+          "quantity": 107.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "beef",
+          "quantity": 34.0,
+          "unit": "pcs"
+        },
+        {
+          "name": "spinach",
+          "quantity": 328.6,
+          "unit": "pcs"
+        },
+        {
+          "name": "cream",
+          "quantity": 243.6,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Mix all ingredients thoroughly.",
+        "Chop all vegetables finely.",
+        "Grill for 10 minutes on each side.",
+        "Bake in the oven for 30 minutes.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Vegan Chocolate Mousse",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Desserts", "Vegan"],
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "quantity": 192.4,
+          "unit": "cup"
+        },
+        {
+          "name": "salt",
+          "quantity": 132.8,
+          "unit": "pcs"
+        },
+        {
+          "name": "beef",
+          "quantity": 465.0,
+          "unit": "pcs"
+        },
+        {
+          "name": "egg",
+          "quantity": 32.6,
+          "unit": "ml"
+        },
+        {
+          "name": "garlic",
+          "quantity": 310.7,
+          "unit": "tbsp"
+        },
+        {
+          "name": "garlic",
+          "quantity": 93.4,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Chop all vegetables finely.",
+        "Mix all ingredients thoroughly.",
+        "Boil water and cook pasta until al dente.",
+        "Bake in the oven for 30 minutes.",
+        "Let it cool before serving."
+      ]
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "beef",
+          "quantity": 61.3,
+          "unit": "tsp"
+        },
+        {
+          "name": "celery",
+          "quantity": 297.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "salt",
+          "quantity": 166.4,
+          "unit": "g"
+        },
+        {
+          "name": "onion",
+          "quantity": 166.7,
+          "unit": "g"
+        },
+        {
+          "name": "flour",
+          "quantity": 247.6,
+          "unit": "g"
+        },
+        {
+          "name": "cream",
+          "quantity": 224.2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Grill for 10 minutes on each side.",
+        "Let it cool before serving.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Mix all ingredients thoroughly.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Fettuccine Alfredo",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "sugar",
+          "quantity": 22.1,
+          "unit": "ml"
+        },
+        {
+          "name": "milk",
+          "quantity": 233.8,
+          "unit": "tbsp"
+        },
+        {
+          "name": "quinoa",
+          "quantity": 75.1,
+          "unit": "ml"
+        },
+        {
+          "name": "tomato",
+          "quantity": 319.2,
+          "unit": "ml"
+        },
+        {
+          "name": "lentils",
+          "quantity": 293.5,
+          "unit": "pcs"
+        },
+        {
+          "name": "salt",
+          "quantity": 278.6,
+          "unit": "cup"
+        },
+        {
+          "name": "cream",
+          "quantity": 353.6,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients thoroughly.",
+        "Let it cool before serving.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Boil water and cook pasta until al dente.",
+        "Bake in the oven for 30 minutes."
+      ]
+    },
+    {
+      "title": "Roasted Veggie Pasta",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Pasta Dishes", "Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "egg",
+          "quantity": 124.9,
+          "unit": "cup"
+        },
+        {
+          "name": "onion",
+          "quantity": 424.4,
+          "unit": "pcs"
+        },
+        {
+          "name": "garlic",
+          "quantity": 124.9,
+          "unit": "tbsp"
+        },
+        {
+          "name": "butter",
+          "quantity": 458.4,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Boil water and cook pasta until al dente.",
+        "Blend until smooth.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Creamy Mushroom Pasta",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Pasta Dishes", "Vegan"],
+      "ingredients": [
+        {
+          "name": "bell pepper",
+          "quantity": 100.4,
+          "unit": "tsp"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 464.6,
+          "unit": "ml"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 441.9,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Grill for 10 minutes on each side.",
+        "Let it cool before serving.",
+        "Mix all ingredients thoroughly.",
+        "Bake in the oven for 30 minutes."
+      ]
+    },
+    {
+      "title": "Beef Stew",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Soups & Stews", "Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "quantity": 137.4,
+          "unit": "cup"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 296.2,
+          "unit": "ml"
+        },
+        {
+          "name": "chicken",
+          "quantity": 194.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "cheese",
+          "quantity": 192.9,
+          "unit": "g"
+        },
+        {
+          "name": "garlic",
+          "quantity": 427.7,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients thoroughly.",
+        "Grill for 10 minutes on each side.",
+        "Boil water and cook pasta until al dente.",
+        "Let it cool before serving.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Macaroni and Cheese",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "lentils",
+          "quantity": 345.4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "salt",
+          "quantity": 361.4,
+          "unit": "cup"
+        },
+        {
+          "name": "cream",
+          "quantity": 87.4,
+          "unit": "ml"
+        },
+        {
+          "name": "onion",
+          "quantity": 220.0,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Blend until smooth.",
+        "Let it cool before serving.",
+        "Boil water and cook pasta until al dente.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Grilled Shrimp Tacos",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "quinoa",
+          "quantity": 456.1,
+          "unit": "cup"
+        },
+        {
+          "name": "carrot",
+          "quantity": 101.5,
+          "unit": "pcs"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 292.1,
+          "unit": "cup"
+        },
+        {
+          "name": "milk",
+          "quantity": 209.6,
+          "unit": "tsp"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 386.6,
+          "unit": "cup"
+        },
+        {
+          "name": "butter",
+          "quantity": 36.1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "chicken",
+          "quantity": 340.5,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Bake in the oven for 30 minutes.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Spaghetti Carbonara",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "spinach",
+          "quantity": 109.5,
+          "unit": "ml"
+        },
+        {
+          "name": "carrot",
+          "quantity": 179.2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "spinach",
+          "quantity": 179.8,
+          "unit": "cup"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 396.9,
+          "unit": "tbsp"
+        },
+        {
+          "name": "cream",
+          "quantity": 385.8,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Boil water and cook pasta until al dente.",
+        "Bake in the oven for 30 minutes.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Grill for 10 minutes on each side.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Vegan Lentil Soup",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Vegan", "Soups & Stews"],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "quantity": 5.2,
+          "unit": "pcs"
+        },
+        {
+          "name": "tomato",
+          "quantity": 273.8,
+          "unit": "cup"
+        },
+        {
+          "name": "salt",
+          "quantity": 120.6,
+          "unit": "pcs"
+        },
+        {
+          "name": "chicken",
+          "quantity": 45.0,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Mix all ingredients thoroughly.",
+        "Boil water and cook pasta until al dente.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Tofu Stir Fry",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "mushroom",
+          "quantity": 280.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "carrot",
+          "quantity": 183.5,
+          "unit": "pcs"
+        },
+        {
+          "name": "milk",
+          "quantity": 441.7,
+          "unit": "g"
+        },
+        {
+          "name": "tofu",
+          "quantity": 69.1,
+          "unit": "g"
+        },
+        {
+          "name": "cream",
+          "quantity": 56.4,
+          "unit": "pcs"
+        },
+        {
+          "name": "egg",
+          "quantity": 288.4,
+          "unit": "cup"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 21.4,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Grill for 10 minutes on each side.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "BBQ Ribs",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "garlic",
+          "quantity": 472.3,
+          "unit": "ml"
+        },
+        {
+          "name": "flour",
+          "quantity": 424.3,
+          "unit": "cup"
+        },
+        {
+          "name": "egg",
+          "quantity": 217.9,
+          "unit": "tsp"
+        },
+        {
+          "name": "tofu",
+          "quantity": 346.9,
+          "unit": "cup"
+        },
+        {
+          "name": "garlic",
+          "quantity": 136.2,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Mix all ingredients thoroughly.",
+        "Boil water and cook pasta until al dente.",
+        "Bake in the oven for 30 minutes.",
+        "Heat oil in a pan and saut\u00e9 the onions."
+      ]
+    },
+    {
+      "title": "Vegan Lentil Soup",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Vegan", "Soups & Stews"],
+      "ingredients": [
+        {
+          "name": "tofu",
+          "quantity": 301.1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 297.9,
+          "unit": "pcs"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 227.8,
+          "unit": "g"
+        },
+        {
+          "name": "garlic",
+          "quantity": 125.7,
+          "unit": "ml"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 282.1,
+          "unit": "cup"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 396.3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "salt",
+          "quantity": 143.6,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Boil water and cook pasta until al dente.",
+        "Blend until smooth.",
+        "Bake in the oven for 30 minutes."
+      ]
+    },
+    {
+      "title": "Vegan Lentil Soup",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan", "Soups & Stews"],
+      "ingredients": [
+        {
+          "name": "pasta",
+          "quantity": 341.1,
+          "unit": "tbsp"
+        },
+        {
+          "name": "onion",
+          "quantity": 4.6,
+          "unit": "cup"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 273.3,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients thoroughly.",
+        "Blend until smooth.",
+        "Chop all vegetables finely."
+      ]
+    },
+    {
+      "title": "Buddha Bowl",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "butter",
+          "quantity": 9.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "lentils",
+          "quantity": 355.3,
+          "unit": "ml"
+        },
+        {
+          "name": "garlic",
+          "quantity": 452.4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "onion",
+          "quantity": 65.8,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Boil water and cook pasta until al dente.",
+        "Grill for 10 minutes on each side.",
+        "Let it cool before serving.",
+        "Mix all ingredients thoroughly."
+      ]
+    },
+    {
+      "title": "Buddha Bowl",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "celery",
+          "quantity": 211.8,
+          "unit": "pcs"
+        },
+        {
+          "name": "flour",
+          "quantity": 259.2,
+          "unit": "ml"
+        },
+        {
+          "name": "pasta",
+          "quantity": 197.6,
+          "unit": "g"
+        },
+        {
+          "name": "milk",
+          "quantity": 126.7,
+          "unit": "g"
+        },
+        {
+          "name": "tofu",
+          "quantity": 449.8,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Blend until smooth.",
+        "Chop all vegetables finely.",
+        "Bake in the oven for 30 minutes.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Sweet Pancakes",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Desserts"],
+      "ingredients": [
+        {
+          "name": "shrimp",
+          "quantity": 439.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "garlic",
+          "quantity": 352.8,
+          "unit": "ml"
+        },
+        {
+          "name": "garlic",
+          "quantity": 18.0,
+          "unit": "tbsp"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 323.2,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Boil water and cook pasta until al dente.",
+        "Bake in the oven for 30 minutes.",
+        "Let it cool before serving."
+      ]
+    },
+    {
+      "title": "Tofu Stir Fry",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "chicken",
+          "quantity": 99.0,
+          "unit": "g"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 318.8,
+          "unit": "tsp"
+        },
+        {
+          "name": "onion",
+          "quantity": 254.9,
+          "unit": "ml"
+        },
+        {
+          "name": "pasta",
+          "quantity": 443.3,
+          "unit": "g"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 88.5,
+          "unit": "ml"
+        },
+        {
+          "name": "sugar",
+          "quantity": 45.3,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Mix all ingredients thoroughly.",
+        "Let it cool before serving."
+      ]
+    },
+    {
+      "title": "Tofu Stir Fry",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "pasta",
+          "quantity": 1.2,
+          "unit": "tsp"
+        },
+        {
+          "name": "beef",
+          "quantity": 333.5,
+          "unit": "tbsp"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 191.7,
+          "unit": "tsp"
+        },
+        {
+          "name": "quinoa",
+          "quantity": 37.1,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Boil water and cook pasta until al dente.",
+        "Chop all vegetables finely.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Mix all ingredients thoroughly."
+      ]
+    },
+    {
+      "title": "Grilled Chicken Skewers",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "onion",
+          "quantity": 146.7,
+          "unit": "ml"
+        },
+        {
+          "name": "salt",
+          "quantity": 70.7,
+          "unit": "tsp"
+        },
+        {
+          "name": "cream",
+          "quantity": 419.0,
+          "unit": "cup"
+        },
+        {
+          "name": "bell pepper",
+          "quantity": 215.0,
+          "unit": "cup"
+        },
+        {
+          "name": "milk",
+          "quantity": 121.7,
+          "unit": "cup"
+        },
+        {
+          "name": "cream",
+          "quantity": 378.1,
+          "unit": "tsp"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Boil water and cook pasta until al dente.",
+        "Blend until smooth.",
+        "Let it cool before serving."
+      ]
+    },
+    {
+      "title": "Quinoa Salad Bowl",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "onion",
+          "quantity": 145.8,
+          "unit": "cup"
+        },
+        {
+          "name": "chicken",
+          "quantity": 110.4,
+          "unit": "cup"
+        },
+        {
+          "name": "tomato",
+          "quantity": 359.8,
+          "unit": "ml"
+        },
+        {
+          "name": "carrot",
+          "quantity": 201.2,
+          "unit": "pcs"
+        },
+        {
+          "name": "pepper",
+          "quantity": 262.9,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Bake in the oven for 30 minutes.",
+        "Boil water and cook pasta until al dente.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Blend until smooth.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "BBQ Ribs",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "lentils",
+          "quantity": 434.8,
+          "unit": "tbsp"
+        },
+        {
+          "name": "flour",
+          "quantity": 379.0,
+          "unit": "ml"
+        },
+        {
+          "name": "celery",
+          "quantity": 306.6,
+          "unit": "cup"
+        },
+        {
+          "name": "butter",
+          "quantity": 327.2,
+          "unit": "g"
+        },
+        {
+          "name": "flour",
+          "quantity": 85.6,
+          "unit": "tsp"
+        },
+        {
+          "name": "spinach",
+          "quantity": 262.7,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Chop all vegetables finely.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Quinoa Salad Bowl",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "garlic",
+          "quantity": 385.6,
+          "unit": "tbsp"
+        },
+        {
+          "name": "sugar",
+          "quantity": 60.0,
+          "unit": "ml"
+        },
+        {
+          "name": "milk",
+          "quantity": 451.0,
+          "unit": "cup"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Blend until smooth.",
+        "Boil water and cook pasta until al dente.",
+        "Chop all vegetables finely.",
+        "Grill for 10 minutes on each side.",
+        "Mix all ingredients thoroughly."
+      ]
+    },
+    {
+      "title": "Vegan Lentil Soup",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Vegan", "Soups & Stews"],
+      "ingredients": [
+        {
+          "name": "celery",
+          "quantity": 455.7,
+          "unit": "tbsp"
+        },
+        {
+          "name": "tofu",
+          "quantity": 234.7,
+          "unit": "ml"
+        },
+        {
+          "name": "garlic",
+          "quantity": 308.6,
+          "unit": "ml"
+        },
+        {
+          "name": "tofu",
+          "quantity": 51.3,
+          "unit": "tbsp"
+        },
+        {
+          "name": "milk",
+          "quantity": 36.4,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Blend until smooth.",
+        "Boil water and cook pasta until al dente.",
+        "Let it cool before serving."
+      ]
+    },
+    {
+      "title": "Tofu Stir Fry",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "pasta",
+          "quantity": 18.9,
+          "unit": "tsp"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 26.9,
+          "unit": "cup"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 188.4,
+          "unit": "ml"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 361.6,
+          "unit": "tsp"
+        },
+        {
+          "name": "beef",
+          "quantity": 95.5,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Mix all ingredients thoroughly.",
+        "Let it cool before serving.",
+        "Blend until smooth."
+      ]
+    },
+    {
+      "title": "Quinoa Salad Bowl",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "cheese",
+          "quantity": 82.4,
+          "unit": "tsp"
+        },
+        {
+          "name": "chicken",
+          "quantity": 148.6,
+          "unit": "pcs"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 247.4,
+          "unit": "tsp"
+        },
+        {
+          "name": "carrot",
+          "quantity": 321.3,
+          "unit": "g"
+        },
+        {
+          "name": "pasta",
+          "quantity": 333.0,
+          "unit": "ml"
+        },
+        {
+          "name": "garlic",
+          "quantity": 419.0,
+          "unit": "cup"
+        },
+        {
+          "name": "egg",
+          "quantity": 423.5,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Grill for 10 minutes on each side.",
+        "Mix all ingredients thoroughly.",
+        "Bake in the oven for 30 minutes.",
+        "Blend until smooth.",
+        "Let it cool before serving.",
+        "Heat oil in a pan and saut\u00e9 the onions."
+      ]
+    },
+    {
+      "title": "Vegan Chocolate Mousse",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Desserts", "Vegan"],
+      "ingredients": [
+        {
+          "name": "cream",
+          "quantity": 288.1,
+          "unit": "cup"
+        },
+        {
+          "name": "pasta",
+          "quantity": 199.5,
+          "unit": "tsp"
+        },
+        {
+          "name": "chicken",
+          "quantity": 367.5,
+          "unit": "cup"
+        },
+        {
+          "name": "celery",
+          "quantity": 389.6,
+          "unit": "tsp"
+        },
+        {
+          "name": "tofu",
+          "quantity": 481.6,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Let it cool before serving.",
+        "Chop all vegetables finely.",
+        "Boil water and cook pasta until al dente.",
+        "Heat oil in a pan and saut\u00e9 the onions."
+      ]
+    },
+    {
+      "title": "Falafel Wrap",
+      "description": "A delicious and satisfying dish perfect for any occasion.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "salt",
+          "quantity": 59.4,
+          "unit": "pcs"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 61.0,
+          "unit": "cup"
+        },
+        {
+          "name": "chicken",
+          "quantity": 38.9,
+          "unit": "g"
+        },
+        {
+          "name": "olive oil",
+          "quantity": 395.6,
+          "unit": "cup"
+        },
+        {
+          "name": "tomato",
+          "quantity": 462.7,
+          "unit": "ml"
+        },
+        {
+          "name": "cream",
+          "quantity": 134.6,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Chop all vegetables finely.",
+        "Bake in the oven for 30 minutes.",
+        "Let it cool before serving.",
+        "Blend until smooth.",
+        "Mix all ingredients thoroughly."
+      ]
+    },
+    {
+      "title": "Beef Stew",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Soups & Stews", "Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "lentils",
+          "quantity": 449.0,
+          "unit": "g"
+        },
+        {
+          "name": "tofu",
+          "quantity": 92.1,
+          "unit": "tsp"
+        },
+        {
+          "name": "salt",
+          "quantity": 218.3,
+          "unit": "cup"
+        },
+        {
+          "name": "egg",
+          "quantity": 225.3,
+          "unit": "ml"
+        },
+        {
+          "name": "garlic",
+          "quantity": 147.0,
+          "unit": "g"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Mix all ingredients thoroughly.",
+        "Grill for 10 minutes on each side.",
+        "Bake in the oven for 30 minutes."
+      ]
+    },
+    {
+      "title": "Grilled Shrimp Tacos",
+      "description": "Rich, creamy, and indulgent dessert.",
+      "categories": ["Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "beef",
+          "quantity": 364.4,
+          "unit": "tbsp"
+        },
+        {
+          "name": "tomato",
+          "quantity": 47.7,
+          "unit": "tsp"
+        },
+        {
+          "name": "salt",
+          "quantity": 294.9,
+          "unit": "g"
+        },
+        {
+          "name": "sugar",
+          "quantity": 251.3,
+          "unit": "pcs"
+        },
+        {
+          "name": "cheese",
+          "quantity": 289.2,
+          "unit": "tbsp"
+        },
+        {
+          "name": "chicken",
+          "quantity": 185.2,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Bake in the oven for 30 minutes.",
+        "Blend until smooth.",
+        "Boil water and cook pasta until al dente.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Let it cool before serving."
+      ]
+    },
+    {
+      "title": "Vegan Lentil Soup",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan", "Soups & Stews"],
+      "ingredients": [
+        {
+          "name": "bell pepper",
+          "quantity": 125.3,
+          "unit": "ml"
+        },
+        {
+          "name": "mushroom",
+          "quantity": 68.4,
+          "unit": "tsp"
+        },
+        {
+          "name": "tomato",
+          "quantity": 122.4,
+          "unit": "pcs"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 42.0,
+          "unit": "ml"
+        },
+        {
+          "name": "garlic",
+          "quantity": 233.3,
+          "unit": "ml"
+        },
+        {
+          "name": "tofu",
+          "quantity": 471.1,
+          "unit": "ml"
+        }
+      ],
+      "instructions": [
+        "Chop all vegetables finely.",
+        "Heat oil in a pan and saut\u00e9 the onions.",
+        "Grill for 10 minutes on each side."
+      ]
+    },
+    {
+      "title": "Falafel Wrap",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "pepper",
+          "quantity": 187.6,
+          "unit": "cup"
+        },
+        {
+          "name": "quinoa",
+          "quantity": 352.2,
+          "unit": "pcs"
+        },
+        {
+          "name": "tomato",
+          "quantity": 65.5,
+          "unit": "cup"
+        },
+        {
+          "name": "spinach",
+          "quantity": 142.7,
+          "unit": "tbsp"
+        },
+        {
+          "name": "salt",
+          "quantity": 133.7,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Blend until smooth.",
+        "Chop all vegetables finely.",
+        "Let it cool before serving.",
+        "Boil water and cook pasta until al dente."
+      ]
+    },
+    {
+      "title": "Creamy Mushroom Pasta",
+      "description": "Healthy and packed with flavor.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "spinach",
+          "quantity": 345.8,
+          "unit": "pcs"
+        },
+        {
+          "name": "milk",
+          "quantity": 227.7,
+          "unit": "ml"
+        },
+        {
+          "name": "garlic",
+          "quantity": 132.6,
+          "unit": "ml"
+        },
+        {
+          "name": "garlic",
+          "quantity": 159.7,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Boil water and cook pasta until al dente.",
+        "Bake in the oven for 30 minutes.",
+        "Blend until smooth.",
+        "Chop all vegetables finely.",
+        "Heat oil in a pan and saut\u00e9 the onions."
+      ]
+    },
+    {
+      "title": "Beef Stew",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Soups & Stews", "Grilled & Roasted"],
+      "ingredients": [
+        {
+          "name": "milk",
+          "quantity": 361.4,
+          "unit": "ml"
+        },
+        {
+          "name": "tomato",
+          "quantity": 142.1,
+          "unit": "tsp"
+        },
+        {
+          "name": "shrimp",
+          "quantity": 328.6,
+          "unit": "ml"
+        },
+        {
+          "name": "chicken",
+          "quantity": 370.0,
+          "unit": "g"
+        },
+        {
+          "name": "milk",
+          "quantity": 187.2,
+          "unit": "ml"
+        },
+        {
+          "name": "cheese",
+          "quantity": 180.0,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Blend until smooth.",
+        "Let it cool before serving.",
+        "Grill for 10 minutes on each side.",
+        "Boil water and cook pasta until al dente.",
+        "Chop all vegetables finely.",
+        "Bake in the oven for 30 minutes."
+      ]
+    },
+    {
+      "title": "Quinoa Salad Bowl",
+      "description": "A classic favorite everyone will enjoy.",
+      "categories": ["Vegan"],
+      "ingredients": [
+        {
+          "name": "butter",
+          "quantity": 355.9,
+          "unit": "pcs"
+        },
+        {
+          "name": "garlic",
+          "quantity": 489.0,
+          "unit": "pcs"
+        },
+        {
+          "name": "cheese",
+          "quantity": 6.0,
+          "unit": "ml"
+        },
+        {
+          "name": "flour",
+          "quantity": 184.3,
+          "unit": "pcs"
+        },
+        {
+          "name": "carrot",
+          "quantity": 71.5,
+          "unit": "tbsp"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Boil water and cook pasta until al dente.",
+        "Let it cool before serving.",
+        "Blend until smooth.",
+        "Mix all ingredients thoroughly."
+      ]
+    },
+    {
+      "title": "Macaroni and Cheese",
+      "description": "Simple, fast, and full of nutrients.",
+      "categories": ["Pasta Dishes"],
+      "ingredients": [
+        {
+          "name": "carrot",
+          "quantity": 36.9,
+          "unit": "pcs"
+        },
+        {
+          "name": "broccoli",
+          "quantity": 418.5,
+          "unit": "cup"
+        },
+        {
+          "name": "egg",
+          "quantity": 433.8,
+          "unit": "tbsp"
+        },
+        {
+          "name": "tofu",
+          "quantity": 27.1,
+          "unit": "tsp"
+        },
+        {
+          "name": "pepper",
+          "quantity": 354.4,
+          "unit": "pcs"
+        }
+      ],
+      "instructions": [
+        "Bake in the oven for 30 minutes.",
+        "Boil water and cook pasta until al dente.",
+        "Let it cool before serving.",
+        "Mix all ingredients thoroughly.",
+        "Blend until smooth."
+      ]
+    }
+  ],
+  "categories": [
+    "Pasta Dishes",
+    "Soups & Stews",
+    "Grilled & Roasted",
+    "Vegan",
+    "Desserts"
+  ]
+}
